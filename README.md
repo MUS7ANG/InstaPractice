@@ -1,1 +1,1 @@
-<h1>Its Just For Fun!</h1>
+<h1>Just for fun</h1>
